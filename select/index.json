@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Acquiesce",
+  "base_artist": "Oasis",
+  "createdAt": "2026-02-21T12:11:57.133323Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Acquiesce",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_Acquiesce_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Acquiesce",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/02_Acquiesce_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Acquiesce",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Acquiesce_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Acquiesce",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Acquiesce_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Acquiesce (Live at Knebworth, 10 August '96)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Acquiesce_(Live_at_Knebworth,_10_August_'96)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Acquiesce (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Acquiesce_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Acquiesce (Live)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Acquiesce_(Live)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Acquiesce [Live]",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/08_Acquiesce_[Live]_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Acquiesce - Live at Earls Court",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Acquiesce_-_Live_at_Earls_Court_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Acquiesce (Live At Earls Court)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Acquiesce_(Live_At_Earls_Court)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Acquiesce",
+      "artist": "k.d. lang",
+      "has_synced": false,
+      "path": "select/11_Acquiesce_k.d._lang.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Acquiesce",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/12_Acquiesce_Oasis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Acquiesce",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/pl_01_Acquiesce_Oasis.txt"
+    }
+  ]
+}
